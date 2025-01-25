@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # assignment1
 
 A new Flutter project.
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# MAPD722_Assignment1
+Flutter programm
+>>>>>>> 563c10a816e69db1a5e7d8651e18c878004a2f01
